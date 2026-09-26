@@ -1,0 +1,11 @@
+# Vendored benchmark clones — each is its own git repo, not tracked here
+MemoryBench/
+TRACE/
+SkillLearnBench/
+StreamBench/
+
+# Local environments
+continual-agents/
+
+# Scratch/debug output — don't commit these
+repo_context*.txt
